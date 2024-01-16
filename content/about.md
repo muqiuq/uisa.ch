@@ -56,3 +56,8 @@ showMetadata = false
 
 # About the name "uisa"
 *uisa* stands for *Unlimited Informatics Solutions Albrecht* and is my *sole proprietorship* company name. I've transferred all my business activities to PortUp GmbH, and uisa.ch remains as my personal domain.
+
+# About this site
+Created using [Hugo](https://gohugo.io/) and modified theme [Nightfall](https://github.com/LordMathis/hugo-theme-nightfall)
+
+[muqiuq/uisa.ch](https://github.com/muqiuq/uisa.ch/)
