@@ -5,9 +5,9 @@ author = "Philipp Albrecht"
 showMetadata = false
 +++
 
- - 31 years old in 2023
+ - 31 years old in 2024
  - self tought programmer and creator
- - Currently teaching at [Technische Berufsschule Zürich](https://tbz.ch/) as Berufskundelehrperson for informatics
+ - Teaching as Berufskundelehrperson for informatics at [Technische Berufsschule Zürich](https://tbz.ch/) 
  - Owner and main engine of [PortUp GmbH](https://www.portup.ch/)
  - Focus on networking technologies (mostly [MikroTik](https://mikrotik.com/))
  - programming in...
@@ -25,23 +25,23 @@ showMetadata = false
 # Projects
 
 ## Personal
- - [Miscellaneous MikroTik Configs and Scripts](https://github.com/muqiuq/mikrotikstuff)
- - [MQTT <=> Minecraft Link](https://github.com/muqiuq/mqttlink) - Bukkit Plugin Minecraft
+ - [MikroTik Stuff](https://github.com/muqiuq/mikrotikstuff) - Miscellaneous MikroTik Configs and Scripts
+ - [MqttLink](https://github.com/muqiuq/mqttlink) - Bukkit Plugin Minecraft, MQTT <=> Minecraft Link,
  - [Chestmonitor](https://github.com/muqiuq/chestmonitor) - Bukkit Plugin Minecraft
- - Minimal [Desktop Time Tracker](https://github.com/muqiuq/ManStatCol) using Azure Functions as Backend
+ - [ManStatCol](https://github.com/muqiuq/ManStatCol) - Minimal Desktop Time Tracker  using Azure Functions as Backend
  - [PEAS](https://github.com/muqiuq/PEAS) - Lightweight Authentification Demo Service using Azure Functions
  - [Collection of Outlook Tools](https://gitlab.com/muqiuq/phipsisoutlooktools)
- - Wishfull thinking: Why use a password manager? Memorize your passwords with [Password Trainer](https://gitlab.com/muqiuq/password-trainer)
- - Most annoying bug I had to debug [Microsoft Bugs](https://gitlab.com/muqiuq/microsoftbugs/)
+ - [Password Trainer](https://gitlab.com/muqiuq/password-trainer) - Wishfull thinking: Why use a password manager? Memorize your passwords with Password Trainer!
+ - [Microsoft Bugs](https://gitlab.com/muqiuq/microsoftbugs/) - Most annoying microsoft bugs I had to debug 
 
 ## Teaching
- - mass deployment of GNS3 Labs for students using Ubuntu MAAS - [TBZ Cloud - GNS3](https://gitlab.com/ch-tbz-it/Stud/allgemein/tbzcloud-gns3)
- - [Azure Rapid VM deployment tool](https://github.com/alptbz/azure-vm-service) for providing Virtual Maschines to students
- - [Modulunterlagen ICT-Modul 123](https://gitlab.com/alptbz/m123) for my students @ TBZ
- - [MTCNA Laborübungen](https://gitlab.com/ch-tbz-wb/Stud/NWA/-/tree/main/2_Unterrichtsressourcen/NWA2_MTCNA) for my HF students @ TBZ
- - [Miscellaneous Python Scripts](https://gitlab.com/ch-tbz-wb/Stud/FAAS/-/tree/main/2_Unterrichtsressourcen/B?ref_type=heads)
- - [Modulunterlagen ICT-Modul 231](https://gitlab.com/ch-tbz-it/Stud/m231) for my students @ TBZ
- - [BeASwitch - proof-of-concept for an educational application](https://github.com/muqiuq/BeASwitch) for my students @ TBZ
+ - [TBZ Cloud - GNS3](https://gitlab.com/ch-tbz-it/Stud/allgemein/tbzcloud-gns3) - mass deployment of GNS3 Labs for students using Ubuntu MAAS
+ - [Azure VM Cli Tool](https://github.com/alptbz/azure-vm-service) - rapid deployment tool providing Virtual Maschines to students
+ - [Modulunterlagen ICT-Modul 123](https://gitlab.com/alptbz/m123) - for my basic education students @ TBZ
+ - [MTCNA Laborübungen](https://gitlab.com/ch-tbz-wb/Stud/NWA/-/tree/main/2_Unterrichtsressourcen/NWA2_MTCNA) - for my higher education students @ TBZ
+ - [FAAS Python Course](https://gitlab.com/ch-tbz-wb/Stud/FAAS/-/tree/main/2_Unterrichtsressourcen/B?ref_type=heads) - Collection of educational Python resources
+ - [Modulunterlagen ICT-Modul 231](https://gitlab.com/ch-tbz-it/Stud/m231) - for my students @ TBZ
+ - [BeASwitch](https://github.com/muqiuq/BeASwitch) - Learn Routing and Switching by beeing the device itself
 
 # Relevant degrees and certifications
  - Bachelor of Science in Informatics HSR
