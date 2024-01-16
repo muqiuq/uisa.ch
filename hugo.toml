@@ -1,0 +1,40 @@
+baseURL = 'https://uisa.ch/'
+languageCode = 'en-us'
+title = 'Philipp M. Albrecht'
+theme = 'nightfall'
+
+
+[menu]
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+user = "philipp"
+hostname = "uisa.ch"
+subtext = "owner and main engine of [PortUp GmbH](https://portup.ch)"
+  [params.author]
+    name = "Philipp M. Albrecht"  # Website and RSS feed author
+    email = "info@uisa.ch"  # RSS feed email address
+
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+
+
+[[params.social]]
+key = 0
+name = "personal github"
+url = "https://github.com/muqiuq"
+
+[[params.social]]
+key = 1
+name = "teaching github"
+url = "https://github.com/alptbz"
+
+[[params.social]]
+key = 3
+name = "linkedin"
+url = "https://www.linkedin.com/in/philipp-albrecht-74752a18a/"
