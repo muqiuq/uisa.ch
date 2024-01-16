@@ -43,13 +43,13 @@ showMetadata = false
  - [Modulunterlagen ICT-Modul 231](https://gitlab.com/ch-tbz-it/Stud/m231) - for my students @ TBZ
  - [BeASwitch](https://github.com/muqiuq/BeASwitch) - Learn Routing and Switching by beeing the device itself
 
-# Relevant degrees and certifications
+# Degrees and Certifications
  - Bachelor of Science in Informatics HSR
  - MikroTik Academy Trainer
  - MikroTik MTCNE
  - Cisco CCNA
 
-# Some of my favorite sites
+# Some of my Favorite Sites
  - [Hacker News](https://news.ycombinator.com/)
  - [Krebs on Security](https://krebsonsecurity.com/)
  - [media.ccc.de](https://media.ccc.de)
