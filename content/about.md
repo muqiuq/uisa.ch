@@ -33,6 +33,7 @@ showMetadata = false
  - [PEAS](https://github.com/muqiuq/PEAS) - Lightweight Authentification Demo Service using Azure Functions
  - [Collection of Outlook Tools](https://gitlab.com/muqiuq/phipsisoutlooktools)
  - [Password Trainer](https://gitlab.com/muqiuq/password-trainer) - Wishfull thinking: Why use a password manager? Memorize your passwords with Password Trainer!
+ - [File List Mailer](gitlab.com/muqiuq/filelistmailer) - CLI tool to send a list of files via e-mail
  - [Microsoft Bugs](https://gitlab.com/muqiuq/microsoftbugs/) - Most annoying microsoft bugs I had to debug 
 
 ## Teaching
