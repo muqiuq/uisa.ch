@@ -13,7 +13,7 @@ theme = 'nightfall'
 [params]
 user = "philipp"
 hostname = "uisa.ch"
-subtext = "owner and main engine of [PortUp GmbH](https://portup.ch)"
+subtext = "[about me](/about)"
   [params.author]
     name = "Philipp M. Albrecht"  # Website and RSS feed author
     email = "info@uisa.ch"  # RSS feed email address
