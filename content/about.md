@@ -34,6 +34,7 @@ showMetadata = false
  - [Collection of Outlook Tools](https://gitlab.com/muqiuq/phipsisoutlooktools)
  - [Password Trainer](https://gitlab.com/muqiuq/password-trainer) - Wishfull thinking: Why use a password manager? Memorize your passwords with Password Trainer!
  - [File List Mailer](gitlab.com/muqiuq/filelistmailer) - CLI tool to send a list of files via e-mail
+ - [Windows Image Scripts](https://gitlab.com/muqiuq/win-image-scripts) - Collection of scripts to build custom windows images
  - [Microsoft Bugs](https://gitlab.com/muqiuq/microsoftbugs/) - Most annoying microsoft bugs I had to debug 
 
 ## Teaching
