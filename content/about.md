@@ -7,6 +7,7 @@ showMetadata = false
 
 ![Me](/me.jpg)
 
+ - Philipp M. Albrecht
  - 31 years old in 2024
  - Programmer, creator and teacher
  - Teaching as Berufskundelehrperson for informatics at [Technische Berufsschule Zürich](https://tbz.ch/) 
