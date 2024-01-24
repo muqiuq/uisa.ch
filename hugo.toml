@@ -6,14 +6,19 @@ theme = 'nightfall'
 
 [menu]
   [[menu.header]]
-    name = "about"
-    weight = 1
+    name = "About"
+    weight = 3
     url = "about"
+  [[menu.header]]
+    name = "Projects"
+    weight = 2
+    url = "projects"
 
 [params]
 user = "philipp"
 hostname = "uisa.ch"
-subtext = "[about me](/about)"
+subtext1 = "more about my [projects](/projects)"
+subtext2 = "more [about me](/about)"
   [params.author]
     name = "Philipp M. Albrecht"  # Website and RSS feed author
     email = "info@uisa.ch"  # RSS feed email address
