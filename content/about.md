@@ -19,7 +19,7 @@ showMetadata = false
    - C/C++ for microcontrollers
    - Java, PHP if I have to
 
-*for more about me, check out:*
+For more about me, check out:
 
  - [LinkedIn](https://www.linkedin.com/in/philipp-albrecht-74752a18a/)
  - [personal GitHub](https://github.com/muqiuq)
