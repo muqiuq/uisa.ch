@@ -21,7 +21,9 @@ showMetadata = false
  - [Chestmonitor](https://github.com/muqiuq/chestmonitor) - Bukkit Plugin Minecraft
 
 ## Teaching
- - [TBZ Cloud - GNS3](https://gitlab.com/ch-tbz-it/Stud/allgemein/tbzcloud-gns3) - mass deployment of GNS3 Labs for students using Ubuntu MAAS
+ - [GNS3aaS](https://gitlab.com/gns3aas/) - A self service platform for students to get a GNS3 session on a server in a private cloud
+ - [TBZ CLOUD GNS3](https://cloud.edu.tbz.ch/gns3/) - GNS3aaS in action at my school
+ - [TBZ Cloud - GNS3 - Setup](https://gitlab.com/ch-tbz-it/Stud/allgemein/tbzcloud-gns3) - mass deployment of GNS3 Labs for students using Ubuntu MAAS
  - [BeASwitch / BeARouter](https://github.com/muqiuq/BeASwitch) - Learn Routing and Switching by beeing the device itself
  - [Azure VM Cli Tool](https://github.com/alptbz/azure-vm-service) - rapid deployment tool providing Virtual Maschines to students
  - [Modulunterlagen ICT-Modul 123](https://gitlab.com/alptbz/m123) - for my basic education students @ TBZ
