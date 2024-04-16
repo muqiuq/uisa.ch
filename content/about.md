@@ -8,7 +8,7 @@ showMetadata = false
 ![Me](/me.jpg)
 
  - Philipp M. Albrecht
- - 31 years old in 2024
+ - 32 years old in 2024
  - Programmer, creator and teacher
  - IT System and Network Engineer @ [Gericke AG](https://www.gerickegroup.com/)
  - Teaching as Berufskundelehrperson for informatics at [Technische Berufsschule Zürich](https://tbz.ch/) 
