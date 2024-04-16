@@ -10,6 +10,7 @@ showMetadata = false
  - Philipp M. Albrecht
  - 31 years old in 2024
  - Programmer, creator and teacher
+ - IT System and Network Engineer @ [Gericke AG](https://www.gerickegroup.com/)
  - Teaching as Berufskundelehrperson for informatics at [Technische Berufsschule Zürich](https://tbz.ch/) 
  - Part of Management Team of the higher education course [HF Cloud-native Engineer](https://tbz.ch/weiterbildung-tbz/it-services-engineer-hf-2/) @ [TBZ](https://tbz.ch/)
  - Owner and main engine of [PortUp GmbH](https://www.portup.ch/)
