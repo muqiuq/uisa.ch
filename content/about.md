@@ -8,17 +8,16 @@ showMetadata = false
 ![Me](/me.jpg)
 
  - Philipp M. Albrecht
- - 32 years old in 2024
+ - 33 years old in 2025
  - Programmer, creator and teacher
  - IT System and Network Engineer @ [Gericke AG](https://www.gerickegroup.com/)
- - Teaching as Berufskundelehrperson for informatics at [Technische Berufsschule Zürich](https://tbz.ch/) 
- - Part of Management Team of the higher education course [HF Cloud-native Engineer](https://tbz.ch/weiterbildung-tbz/it-services-engineer-hf-2/) @ [TBZ](https://tbz.ch/)
  - Owner and main engine of [PortUp GmbH](https://www.portup.ch/)
  - Focus on networking technologies (mostly [MikroTik](https://mikrotik.com/))
- - Programming in...
-   - C# .NET core (WinForm, WPF, Blazor), Python (for Automation and CLI Tools)
+ - Programming...
+   - C# .NET core (WinForm, WPF, Blazor, Azure Functions), Python (for Automation and CLI Tools)
    - C/C++ for microcontrollers
    - Java, PHP if I have to
+   - Microsoft PowerApps (incl. development of custom interfaces with .NET)
 
 For more about me, check out:
 
