@@ -29,7 +29,7 @@ For more about me, check out:
 # Degrees and Certifications
  - Bachelor of Science in Informatics HSR
  - MikroTik Academy Trainer
- - MikroTik MTCNE & MTCEWE
+ - [MikroTik MTCNE & MTCEWE](https://mikrotik.com/consultants/europe/switzerland)
  - Cisco CCNA
 
 # Some of my Favorite Sites
