@@ -6,6 +6,7 @@ showMetadata = false
 +++
 
 ## Personal
+ - [Tiksible](https://github.com/muqiuq/tiksible) - lightweight IaaS and automation CLI tool for MikroTik RouterOS
  - [PNMT](https://github.com/muqiuq/PNMTD) - Personal Network Monitoring Tool
  - [MikroTik GeoIP and Blocklist](https://gitlab.com/muqiuq/mikrotikgeoip) - Weekly generated GeoIP and Blocklist
  - [MikroTik Stuff](https://github.com/muqiuq/mikrotikstuff) - Miscellaneous MikroTik Configs and Scripts
