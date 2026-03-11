@@ -8,7 +8,7 @@ showMetadata = false
 ![Me](/me.jpg)
 
  - Philipp M. Albrecht
- - 33 years old in 2025
+ - 34 years old in 2026
  - Programmer, creator and teacher
  - IT System and Network Engineer @ [Gericke AG](https://www.gerickegroup.com/)
  - Owner and main engine of [PortUp GmbH](https://www.portup.ch/)
@@ -28,7 +28,7 @@ For more about me, check out:
 
 # Degrees and Certifications
  - Bachelor of Science in Informatics HSR
- - MikroTik Academy Trainer
+ - [MikroTik Trainer](https://mikrotik.com/training/centers?category=training&region=Switzerland)
  - [MikroTik MTCNE & MTCEWE](https://mikrotik.com/consultants/europe/switzerland)
  - Cisco CCNA
 
