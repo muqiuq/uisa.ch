@@ -22,6 +22,8 @@ showMetadata = false
  - [Microsoft Bugs](https://gitlab.com/muqiuq/microsoftbugs/) - Most annoying microsoft bugs I had to debug 
  - [MqttLink](https://github.com/muqiuq/mqttlink) - Bukkit Plugin Minecraft, MQTT <=> Minecraft Link
  - [Chestmonitor](https://github.com/muqiuq/chestmonitor) - Bukkit Plugin Minecraft
+ - [banana-game](https://github.com/muqiuq/banana-game) - distributed peer-to-peer banana chain
+ - [blank.exe](https://github.com/muqiuq/blank-exe) - The Annoying App for demo purposes
 
 ## Teaching
  - [GNS3aaS](https://gitlab.com/gns3aas/) - A self service platform for students to get a GNS3 session on a server in a private cloud

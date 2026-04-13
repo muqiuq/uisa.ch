@@ -35,10 +35,5 @@ url = "https://github.com/muqiuq"
 
 [[params.social]]
 key = 1
-name = "teaching github"
-url = "https://github.com/alptbz"
-
-[[params.social]]
-key = 3
 name = "linkedin"
 url = "https://www.linkedin.com/in/philipp-albrecht-74752a18a/"
